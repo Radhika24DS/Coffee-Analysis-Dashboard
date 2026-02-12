@@ -1,1 +1,9 @@
 # Coffee-Analysis-Dashboard
+
+This Power BI dashboard presents a comprehensive analysis of coffee shop sales performance using an interactive and visually rich layout. The dashboard is built using the Coffee Shop Sales dataset, which contains over 149,000 transaction records with 11 key attributes including transaction ID, date, time, quantity sold, store ID, store location, product ID, unit price, product category, product type, and product detail. These attributes enable detailed analysis of sales trends, product performance, and store-level comparisons.
+
+The dashboard includes several visual components to provide actionable insights. The KPI cards display key metrics such as total sales revenue, total quantity sold, and number of transactions, allowing users to quickly assess overall business performance. The line chart illustrates sales trends over time, helping identify seasonal patterns, peak sales periods, and daily or monthly variations. The bar chart compares sales performance across different product categories such as Coffee, Tea, and Drinking Chocolate, enabling identification of the most profitable product segments.
+
+A store location analysis chart shows sales distribution across different store locations, helping evaluate regional performance and identify high-performing stores. The product-level breakdown chart provides insights into which specific products and product types generate the highest revenue. Additionally, time-based analysis visuals highlight sales distribution across different hours of the day, helping understand customer purchasing behavior and peak business hours.
+
+Overall, this dashboard transforms raw transactional data into meaningful business intelligence, enabling stakeholders to monitor performance, identify trends, and support data-driven decision-making to optimize sales strategies and operational efficiency.
